@@ -1,0 +1,20 @@
+{
+  "name": "word-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mammoth": "^1.11.0",
+    "multer": "^2.1.0",
+    "puppeteer": "^24.37.5",
+    "uuid": "^13.0.0"
+  }
+}
